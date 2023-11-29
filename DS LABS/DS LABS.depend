@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1694444272 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694444260 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l1q1.c
+	<stdio.h>
+
+1694446940 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l4q1.c
+	<stdio.h>
+
+1694446147 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l3q1.c
+	<stdio.h>
+	<stdbool.h>
+
+1694445722 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l3q2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1694446671 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l2q2.c
+	<stdio.h>
+
+1694446679 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l2q4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694446772 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l1q3.c
+	<stdio.h>
+
+1694447318 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l5q1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1694447592 source:c:\users\vansh\onedrive\desktop\ds labs\ds labs\l5q2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

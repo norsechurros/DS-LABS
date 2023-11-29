@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698700383 source:c:\users\vansh\onedrive\desktop\ds labs\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

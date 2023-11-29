@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701147613 source:c:\users\vansh\onedrive\desktop\ds labs\endsem the\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701147605 source:c:\users\vansh\onedrive\desktop\ds labs\endsem the\prg1.c
+
+1701168703 source:c:\users\vansh\onedrive\desktop\ds labs\endsem the\prg2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

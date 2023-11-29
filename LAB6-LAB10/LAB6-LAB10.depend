@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1698636812 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\main.c
+	<stdio.h>
+	<string.h>
+
+1698636915 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab6q1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698637594 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab6q3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698666910 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab7q3.c
+	<stdio.h>
+	<stdlib.h>
+
+1698676974 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab8q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1698668706 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\labq9q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1698677294 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab9q3.c
+	<stdio.h>
+	<stdlib.h>
+
+1698676425 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab10q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1698676540 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab10q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1698677965 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab9q4.c
+	<stdio.h>
+	<stdlib.h>
+
+1698697004 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab6q4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698641188 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab7q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1699909968 source:c:\users\vansh\onedrive\desktop\ds labs\lab6-lab10\lab11q1-4.c
+	<stdio.h>
+	<stdlib.h>
+

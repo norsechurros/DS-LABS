@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695530610 source:c:\users\vansh\onedrive\desktop\ds labs\midsem practice\lolz.c
+	<stdio.h>
+
+1695530467 source:c:\users\vansh\onedrive\desktop\ds labs\midsem practice\main.c
+	<stdio.h>
+	<stdlib.h>
+

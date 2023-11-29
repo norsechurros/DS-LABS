@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699077650 source:c:\users\vansh\onedrive\desktop\ds labs\ds-fisac\q2.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+

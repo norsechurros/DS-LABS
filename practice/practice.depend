@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1696859528 source:c:\users\vansh\onedrive\desktop\ds labs\practice\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1696861906 source:c:\users\vansh\onedrive\desktop\ds labs\practice\new1.c
+	<stdio.h>
+
+1696864894 source:c:\users\vansh\onedrive\desktop\ds labs\practice\new2.c
+	<stdio.h>
+
+1696867721 source:c:\users\vansh\onedrive\desktop\ds labs\practice\yuhh.c
+	<stdio.h>
+
+1696886114 source:c:\users\vansh\onedrive\desktop\ds labs\practice\db.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
